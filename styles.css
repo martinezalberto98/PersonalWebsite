@@ -125,7 +125,9 @@
   
   /* Form styles */
   form {
-    margin-top: 20px;
+    margin-top: 20px auto
+    max-width: 600px;
+    
   }
   
   label {
